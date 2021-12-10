@@ -134,7 +134,7 @@ input::placeholder {
 .text3{
     display: flex;
     width: 55%;
-    margin-top: 2%;
+    margin-top: 1.2%;
     font-family: 'Playfair Display', serif;
     font-size: 360%;
 }
@@ -164,7 +164,7 @@ input::placeholder {
     position: absolute; 
     display: flex;
 }
-.espelho{
+.Espelho{
     width: 600px;
     height: 450px;
     margin-top: -47%;  
@@ -177,7 +177,7 @@ input::placeholder {
     margin-top: 6%;
     margin-left: 66px;
 }
-.toque{
+.Toque{
     color:#fff;
     font-family: 'Playfair Display', serif;
     font-size: 30px;
@@ -189,7 +189,256 @@ input::placeholder {
 .carinho{
     color: #fff;
     font-family: 'Montserrat', sans-serif;
-    font-weight: lighter;
-    margin-left: 16px;
-    line-height: 25px;
+    font-weight:lighter;
+    margin-left: 30px;
+    line-height: 23px;
+    width: 88%;
+}
+.picture-two{
+    width: 670px;
+    height: 700px;
+    margin-top: 250px;
+    margin-left: 90px;
+    position: absolute; 
+    display: flex;
+}
+.Maju{
+    width: 600px;
+    height: 450px;
+    margin-top: -500%; 
+    margin-left:91%;
+}
+.text-reporter{
+    width: 380px;
+    height: 330px;
+    background:#9767A9;
+    position: absolute;
+    margin-top: -452%;
+    margin-left: 104%; 
+}
+.Referências{
+    color:#fff;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.padrões{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:lighter;
+    margin-left: 30px;
+    line-height: 18px;
+    width: 90%;
+}
+.picture-three{
+    width: 670px;
+    height: 700px;
+    margin-top: 250px;
+    margin-left: 90px;
+    position: absolute; 
+    display: flex; 
+}
+.Cabelo-praia{
+    width: 600px;
+    height: 450px;
+    margin-top:-421%;
+}
+.text-cabeludo{
+    width: 409px;
+    height: 250px;
+    background:#9767A9;
+    position: absolute;
+    margin-top: -374%;
+    margin-left: 90px;
+}
+.Detalhes{
+    color:#fff;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 58%;
+}
+.volume{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:lighter;
+    margin-left: 30px;
+    line-height: 14px;
+    width: 77%;
+}
+.picture-four{
+    width: 670px;
+    height: 700px;
+    margin-top: 250px;
+    margin-left: 90px;
+    position: absolute; 
+    display: flex;
+}
+.Poder{
+    width: 600px;
+    height: 450px;
+    margin-top: -394%; 
+    margin-left:91%; 
+}
+.text-rainha{
+    width: 380px;
+    height: 260px;
+    background:#9767A9;
+    position: absolute;
+    margin-top: -330%;
+    margin-left: 104%; 
+}
+.Opiniões{
+    color:#fff;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.diversidade{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:lighter;
+    margin-left: 30px;
+    line-height: 13px;
+    width: 90%;
+}
+.picture-five{
+    width: 670px;
+    height: 700px;
+    margin-top: 250px;
+    margin-left: 90px;
+    position: absolute; 
+    display: flex;  
+}
+.Maternal{
+    width: 600px;
+    height: 450px;
+    margin-top:-320%;
+}
+.text-amor{
+    width: 420px;
+    height: 290px;
+    background:#9767A9;
+    position: absolute;
+    margin-top: -273%;
+    margin-left: 83px;
+}
+.Raízes{
+    color:#fff;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 50.9%;
+}
+.luta{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:lighter;
+    margin-left: 30px;
+    line-height: 13px;
+    width: 77%;
+}
+.picture-six{
+    width: 670px;
+    height: 700px;
+    margin-top: 250px;
+    margin-left: 90px;
+    position: absolute; 
+    display: flex; 
+}
+.Banho{
+    width: 600px;
+    height: 450px;
+    margin-top: -286%; 
+    margin-left:91%;   
+}
+.text-espuma{
+    width: 380px;
+    height: 260px;
+    background:#9767A9;
+    position: absolute;
+    margin-top: -228%;
+    margin-left: 104%;
+}
+.Fases{
+    color:#fff;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.respeite-se{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:lighter;
+    margin-left: 30px;
+    line-height: 18px;
+    width: 90%;
+}
+.picture-seven{
+    width: 670px;
+    height: 700px;
+    margin-top: 250px;
+    margin-left: 90px;
+    position: absolute; 
+    display: flex;
+}
+.Grizalhos{
+    width: 600px;
+    height: 450px;
+    margin-top:-218%;
+}
+.text-aceitação{
+    width: 396px;
+    height: 276px;
+    background:#9767A9;
+    position: absolute;
+    margin-top: -170%;
+    margin-left: 74px; 
+}
+.Orgulho{
+    color:#fff;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+    width: 70%; 
+}
+.natural{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:lighter;
+    margin-left: 30px;
+    line-height: 20px;
+    width: 77%;
+}
+.picture-eight{
+    width: 200px;
+    height: 100px;
+    margin-top: 250px;
+    margin-left: 90px;
+    position: absolute; 
+    display: flex;
+}
+.Ondas{
+    width: 200%;
+    height: 50%;
+    margin-top: -570%; 
+    margin-left: 360%;   
 }
