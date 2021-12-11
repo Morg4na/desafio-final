@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2? família = Montserrat & display = swap');
+@import url('https://fonts.googleapis.com/css2? family = Montserrat: wght @ 100 & display = swap');
 @import url('https://fonts.googleapis.com/css2? family = Playfair + Display: wght @ 900 & display = swap');
 *{
     margin: 0;
@@ -103,18 +104,19 @@ input::placeholder {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    opacity: 1;
 }
 .text1{
     width: 22%;
-    margin-top: 8%;
+    margin-top: 9.2%;
     margin-left: 14%;
     font-family: 'Playfair Display', serif;
     font-size: 500%;
 }
 .text2{
-    width: 29%;
-    margin-top: 12%;
-    margin-right: 12%;
+    width: 22%;
+    margin-top: 13%;
+    margin-right: 17%;
     font-family: 'Montserrat', sans-serif;
     font-size: 180%;
     font-weight: lighter;
@@ -130,6 +132,7 @@ input::placeholder {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    opacity: 1;
 }
 .text3{
     display: flex;
@@ -154,7 +157,7 @@ input::placeholder {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    
+    opacity: 1;
 }
 .picture-one{
     width: 670px;
@@ -441,4 +444,117 @@ input::placeholder {
     height: 50%;
     margin-top: -570%; 
     margin-left: 360%;   
+}
+.Photo-gallery{
+    width: 89%;
+    height:115vh;
+    margin-left: 89px;
+    display: flex;
+    flex-wrap: wrap; 
+    margin-top: -490px;
+}
+.king{
+    width: 260px;
+    height: 445px;
+}
+.Byonce{
+    width: 180px;
+    height: 216px;
+    margin-left: 18px;
+}
+.Michel-b{
+    width: 180px;
+    height: 212px;
+    position: absolute;
+    margin-left: 278px;
+    margin-top: 232px;
+}
+.Grace{
+    height: 444px;
+    width: 180px;
+    margin-left: 15px;
+}
+.Stylish{
+    height: 663px;
+    width: 280px;
+    margin-left: 15px;
+}
+.photo-club1{
+    height: 662px;
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 964px;
+    margin-top: -710px;
+}
+.Distraído{
+    height: 420px;
+    width: 214px;
+    margin-top: -8%;
+}
+.tranças{
+    height: 224px;
+    width: 214px;
+}
+.photo-club2{
+    height: 230px;
+    width: 654px;
+    position: absolute;
+    margin-top: 464px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Snoopy{
+    height: 199px;
+    width: 180px;
+    margin-left: 42%;
+    position: absolute;
+}
+.thaís{
+    height: 199px;
+    width: 180px;
+    margin-left: 72%;
+    position: absolute;
+}
+.Gloria{
+    height: 199px;
+    width: 260px; 
+}
+footer{
+    background-color: #9767A9;
+    width: 100%;
+}
+.End{
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+}
+.Setas{
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    margin-left:70%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+.grupo-1{
+    display: flex;
+    flex-direction: row
+}
+.left{
+    margin-right: 8%; 
+}
+.grupo-2{
+    display: flex;
+    flex-direction: row;
+}
+.right{
+    margin-right: 27%;
+}
+.grupo-3{
+    display: flex;
+    flex-direction: row;
+    width: -5%;
 }
