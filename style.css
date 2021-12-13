@@ -17,7 +17,7 @@ header{
 }
 .menu{
     width: 100%;
-    height: 100%;
+    height: 10vh;
     display: flex;
     Justify-content: space-around;
 }
@@ -29,8 +29,8 @@ header{
     width: 90px;
     height: 50px;
     position: fixed;
-    margin-left: 2.6%;
-    margin-top:0.8%;
+    left: 2.8%;
+    top:0.8%;
 }
 .list{
     width: 740px;
@@ -43,7 +43,7 @@ header{
     align-items: center;
     margin-left: 7%;
 }
-ul :hover{
+li:hover{
     color:#9767A9 (10, 9, 9);
     font-weight: bold;
 }
@@ -62,8 +62,8 @@ ul :hover{
     width: 15px;
     height: 15px;
     position: absolute;
-    margin-left: 48%;
-    margin-top: 1.8%;
+    left: 993px;
+    top: 36%;
 }
 input::placeholder {
     color:#9767A9;
@@ -219,7 +219,7 @@ input::placeholder {
     margin-top: -452%;
     margin-left: 104%; 
 }
-.referências{
+.referencias{
     color:#fff;
     font-family: 'Playfair Display', serif;
     font-size: 30px;
@@ -228,7 +228,7 @@ input::placeholder {
     margin-bottom: 12px;
     text-align: left;
 }
-.padrões{
+.padroes{
     color: #fff;
     font-family: 'Montserrat', sans-serif;
     font-weight:lighter;
@@ -297,7 +297,7 @@ input::placeholder {
     margin-top: -330%;
     margin-left: 104%; 
 }
-.opiniões{
+.opinioes{
     color:#fff;
     font-family: 'Playfair Display', serif;
     font-size: 30px;
@@ -335,7 +335,7 @@ input::placeholder {
     margin-top: -273%;
     margin-left: 83px;
 }
-.raízes{
+.raizes{
     color:#fff;
     font-family: 'Playfair Display', serif;
     font-size: 30px;
@@ -405,7 +405,7 @@ input::placeholder {
     height: 450px;
     margin-top:-218%;
 }
-.text-aceitação{
+.text-aceitacao{
     width: 396px;
     height: 238px;
     background:#9767A9;
@@ -488,12 +488,12 @@ input::placeholder {
     margin-left: 964px;
     margin-top: -710px;
 }
-.distraído{
+.distraido{
     height: 420px;
     width: 214px;
     margin-top: -8%;
 }
-.tranças{
+.trancas{
     height: 224px;
     width: 214px;
 }
@@ -512,7 +512,7 @@ input::placeholder {
     margin-left: 42%;
     position: absolute;
 }
-.thaís{
+.thais{
     height: 199px;
     width: 180px;
     margin-left: 72%;
@@ -536,17 +536,17 @@ footer{
     font-family: 'Montserrat', sans-serif;
     font-size: 13px;
 }
-.vai na web{
+.vai-na-web{
     height: 35%;
     width:  50%;
     margin-left: 70px;
     margin-top : 10px;
 }
-a {
+a{
     color : #fff;
     text-decoration: nenhum;
     font-family: 'Montserrat' , sans-serif;
-    font-size:  13 px ;
+    font-size:  13px;
 }
 .grupo-1{
     height: 80%;
