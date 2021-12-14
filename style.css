@@ -604,4 +604,116 @@ a{
     width: 27px;
 }
 @media screen and (max-width: 380px){
+    .todecacho{
+        position: absolute;
+        left: 380px;
+        height: 50px;
+        top: 10px;
+    }
+    li{
+        display: none;
+    }
+    .icones{
+        display: none;
+    }
+    .pesquisa{
+        display: none;
+    }
+    .procura{
+        display: none;
+    }
+    .menu{
+        background-color: #fff;
+        position: fixed;
+        width: 100%;
+        display: flex;
+        z-index: 10;
+    }
+    .menu-2{
+        width: 10%;
+        height: 10%;
+        background-image: url('Assets/Menu.png') ;
+        background-repeat: no-repeat;
+        width: 30%;
+        height: 600%;
+        position: absolute;
+        top: 20%;
+        left: 2px;
+    }
+    .main-image{
+        width: 500px;
+        position: relative;
+        background-image: url("Assets/cabeludo-2.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center ;
+        display: flex;
+        align-items: center;
+        color:#FFFFFF;
+        height: 100vh;
+    }
+    .texts{
+        display: flex;
+        flex-direction: column;
+        width: 500px;
+    }
+    .text1{
+        width:50%;
+        margin-top: -28%;
+        margin-left: 10%;
+        font-family: 'Playfair Display', serif;
+        font-size: 3.5rem;
+    }
+    .text2{
+        width: 60%;
+        margin-right: 12%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 1.3rem;
+        font-weight: lighter;
+        margin-top: 5%;
+        margin-left: 10%;
+    }
+    .textos{
+        position: relative;
+        color:#FFFFFF;
+        background-color: #9767A9;
+        top: 34%;
+    }
+    .steps{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .text3{
+        display: flex;
+        width: 73%;
+        margin-top: 1.2%;
+        font-family: 'Playfair Display', serif;
+        font-size: 1.3rem;
+    }
+    .text4{
+        display: flex;
+        width: 82%;
+        margin-top: 3%;
+        margin-right: 2%;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 10px;
+        font-weight: lighter;
+        letter-spacing: -0.40px;
+    }
+    .box-mother{
+        display: none;
+    }
+    .photo-gallery{
+        display: none;
+    }
+    .text-aceitacao{
+        display: none;
+    }
+    footer{
+        display: none;
+    }
+    
+
 }
