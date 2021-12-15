@@ -681,7 +681,7 @@ a{
         background-color: #9767A9;
         top: 34%;
         height: 58vh;
-        width: 385px;
+        width: 100%;
     }
     .steps{
         display: flex;
@@ -715,31 +715,99 @@ a{
     .espelho{
         width:300px;
         height:243px;
-        margin-left:38px;
+        margin-left:32px;
         margin-top: 5%;
     }
     .text-espelho{
         position: absolute;
         left:0%;
-        width: 385px;
+        width: 100%;
         height: 88vh;
         top: 153px;
     }
     .toque{
         font-size: 27px;
         width: 70%;
+        text-align: left;
+        margin-left: 7%;
     }
     .carinho{
-        line-height: 200%;
+        line-height: 33px;
+        text-align: left;
+        margin-left: 7%;
     }
     .picture-two{
-        display:none;
+        width: 100%;
+        margin: 0%;
+    }
+    .maju{
+        width:300px;
+        height:243px;
+        margin-left:32px;
+        margin-top: -2177px;
+    }
+    .text-reporter{
+        position: absolute;
+        right: 0%;
+        width: 385px;
+        height: 88vh;
+        top:-254px;
+    }
+    .referencias{
+        font-size: 27px;
+    }
+    .padroes{
+        line-height: 33px;
     }
     .picture-three{
-        display: none;
+        width: 100%;
+        margin: 0%;
+    }
+    .cabelo-praia{
+        width:300px;
+        height:243px;
+        margin-left:32px;
+        margin-top: -1453px;
+    }
+    .text-cabeludo{
+        position: absolute;
+        right: 0%;
+        width: 385px;
+        height: 45vh;
+        top: 161px;
+    }
+    .detalhes{
+        font-size: 27px;
+    }
+    .volume{
+        line-height: 18px;
     }
     .picture-four{
-        display: none;
+        width: 100%;
+        margin: 0%;
+    }
+    .poder{
+        width:300px;
+        height:243px;
+        margin-left:32px;
+        margin-top: -988px;
+    }
+    .text-rainha{
+        position: absolute;
+        right: 0%;
+        width: 385px;
+        height: 45vh;
+        top: 497px;
+    }
+    .opinioes{
+        font-size: 27px;
+        text-align: left;
+        margin-left: 7%;
+    }
+    .diversidade{
+        line-height: 18px; 
+        text-align: left;
+        margin-left: 7%;
     }
     .picture-five{
         display: none;
