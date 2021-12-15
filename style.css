@@ -634,7 +634,7 @@ a{
     }
     .todecacho{
         position: absolute;
-        left: 11%;
+        left: 20%;
         top: 16%;
         height: 80%;
     }
@@ -662,7 +662,7 @@ a{
     .text1{
         width:50%;
         margin-top: -26%;
-        margin-left: 10%;
+        margin-left: 9%;
         font-family: 'Playfair Display', serif;
         font-size: 3.2rem;
     }
@@ -707,7 +707,49 @@ a{
         letter-spacing: -0.40px;
         line-height: 16px;
     }
-    .box-mother{
+    .picture-one{
+        width: 100%;
+        margin: 0%;
+    }
+    .espelho{
+        width:300px;
+        height:243px;
+        margin-left:38px;
+        margin-top: 5%;
+    }
+    .text-espelho{
+        position: absolute;
+        left:0%;
+        width: 100%;
+        height: 88vh;
+        top: 153px;
+    }
+    .toque{
+        font-size: 27px;
+        width: 70%;
+    }
+    .carinho{
+        margin-top: 6%;
+    }
+    .picture-two{
+        display: none;
+    }
+    .picture-three{
+        display: none;
+    }
+    .picture-four{
+        display: none;
+    }
+    .picture-five{
+        display: none;
+    }
+    .picture-six{
+        display: none;
+    }
+    .picture-seven{
+        display: none;
+    }
+    .picture-eight{
         display: none;
     }
     .photo-gallery{
