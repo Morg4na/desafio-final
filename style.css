@@ -634,7 +634,7 @@ a{
     }
     .todecacho{
         position: absolute;
-        left: 38%;
+        left: 19%;
         top: 16%;
         height: 80%;
     }
@@ -739,7 +739,7 @@ a{
         width:300px;
         height:243px;
         margin-left:38px;
-        margin-top: 10%;
+        margin-top:10px;
     }
     .picture-three{
         display: none;
