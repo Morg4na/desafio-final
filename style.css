@@ -681,6 +681,7 @@ a{
         background-color: #9767A9;
         top: 34%;
         height: 58vh;
+        width: 385px;
     }
     .steps{
         display: flex;
@@ -705,7 +706,7 @@ a{
         font-size: 15px;
         font-weight: lighter;
         letter-spacing: -0.40px;
-        line-height: 16px;
+        line-height: 22px;
     }
     .picture-one{
         width: 100%;
@@ -720,7 +721,7 @@ a{
     .text-espelho{
         position: absolute;
         left:0%;
-        width: 100%;
+        width: 385px;
         height: 88vh;
         top: 153px;
     }
