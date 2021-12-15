@@ -634,7 +634,7 @@ a{
     }
     .todecacho{
         position: absolute;
-        left: 19%;
+        left: 37%;
         top: 16%;
         height: 80%;
     }
@@ -732,14 +732,7 @@ a{
         margin-top: 6%;
     }
     .picture-two{
-        width: 100%;
-        margin: 0%;
-    }
-    .maju{
-        width:300px;
-        height:243px;
-        margin-left:38px;
-        margin-top:10px;
+        display:none;
     }
     .picture-three{
         display: none;
