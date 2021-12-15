@@ -625,7 +625,7 @@ a{
         display: none;
     }
     nav{
-        width: 12%;
+        width: 14%;
         height: 100%;
         background-image: url('Assets/Menu.png') ;
         background-repeat: no-repeat;
@@ -634,7 +634,7 @@ a{
     }
     .todecacho{
         position: absolute;
-        left: 20%;
+        left: 38%;
         top: 16%;
         height: 80%;
     }
@@ -661,7 +661,7 @@ a{
     }
     .text1{
         width:50%;
-        margin-top: -26%;
+        margin-top: -24%;
         margin-left: 9%;
         font-family: 'Playfair Display', serif;
         font-size: 3.2rem;
