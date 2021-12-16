@@ -634,7 +634,7 @@ a{
     }
     .todecacho{
         position: absolute;
-        left: 37%;
+        left: 20%;
         top: 16%;
         height: 80%;
     }
@@ -931,9 +931,107 @@ a{
         top: 1386px; 
         right: 60%;
     }
+    .gloria{
+        width: 320px;
+        height: 200px;
+        position: absolute;
+        top: 1520px; 
+        right: 60%;
+    }
+    .snoopy{
+        width: 78px;
+        height: 60px;
+        position: absolute;
+        top: 1964px;
+        right: 84%; 
+    }
+    .stylish{
+        width: 78px;
+        height: 220px;
+        position: absolute;
+        top: 5268px;
+        right: 72%;
+    }
+    .trancas{
+        width: 78px;
+        height: 60px;
+        position: absolute;
+        top: 5500px;
+        right: 72%; 
+    }
+    .distraido{
+        width: 78px;
+        height: 220px;
+        position: absolute;
+        top: 5298px;
+        right:49%; 
+    }
+    .grace{
+        width: 146px;
+        height: 293px;
+        position: absolute;
+        top: 5267px; 
+        right: 8%;
+    }
     footer{
+        width: 100%;
+        height: 100px;
+        background: #fff;
+        margin-top: 1900px;
+    }
+    .end{
         display: none;
     }
-    
-
+    .vai-na-web{
+         display: none;
+    }
+    .a{
+        display: none;
+    }
+    .grupo-1 p{
+        display: none;
+    }
+    .esquerda{
+        height: 15px;
+        width: 15px;
+    }
+    .grupo-2 p{
+        display: none;
+    }
+    .meio{
+        height: 15px;
+        width: 15px;  
+    }
+    .grupo-3 p{
+        display: none;
+    }
+    .direita{
+        height: 15px;
+        width: 15px;
+    }
+    .grupo-1{
+        width: 30px;
+        height: 35px;
+        border-radius: 50%;
+        background: #9767A9;
+        display: flex;
+        justify-content: center;
+        margin-left: 220px
+    }
+   .grupo-2{
+        width: 30px;
+        height: 35px;
+        border-radius: 50%;
+        background: #9767A9;
+        display: flex;
+        justify-content: center;
+   }
+   .grupo-3{
+        width: 30px;
+        height: 35px;
+        border-radius: 50%;
+        background: #9767A9;
+        display: flex;
+        justify-content: center;
+   }
 }
