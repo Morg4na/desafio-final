@@ -874,8 +874,8 @@ a{
         margin-top: 588px;
     }
     .text-aceitacao{
-        
-        left: 0%;
+        position: absolute;
+        right: 0%;
         width: 385px;
         height: 50vh;
         top: 1300px;
