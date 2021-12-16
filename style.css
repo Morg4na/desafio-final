@@ -810,16 +810,95 @@ a{
         margin-left: 7%;
     }
     .picture-five{
-        display: none;
+        width: 100%;
+        margin: 0%;
+    }
+    .maternal{
+        width:300px;
+        height:243px;
+        margin-left:32px;
+        margin-top: -483px;
+    }
+    .text-amor{
+        position: absolute;
+        right: 0%;
+        width: 385px;
+        height: 62vh;
+        top: 730px;
+    }
+    .raizes{
+        font-size: 27px;
+        text-align: left;
+        margin-left: 7%;
+    }
+    .luta{
+        line-height: 22px; 
+        text-align: left;
+        margin-left: 7%; 
     }
     .picture-six{
-        display: none;
+        width: 100%;
+        margin: 0%;
+    }
+    .banho{
+        width:300px;
+        height:243px;
+        margin-left:32px;
+        margin-top: 64px; 
+    }
+    .text-espuma{
+        position: absolute;
+        right: 0%;
+        width: 385px;
+        height: 50vh;
+        top: 1153px;
+    }
+    .fases{
+        font-size: 27px;
+        text-align: left;
+        margin-left: 7%
+    }
+    .respeite-se{
+        line-height: 26px; 
+        text-align: left;
+        margin-left: 7%; 
     }
     .picture-seven{
-        display: none;
+        width: 100%;
+        margin: 0%;
+    }
+    .grizalhos{
+        width:300px;
+        height:243px;
+        margin-left:32px;
+        margin-top: 588px;
+    }
+    .text-aceitacao{
+        
+        left: 0%;
+        width: 385px;
+        height: 50vh;
+        top: 1300px;
+    }
+    .orgulho{
+        font-size: 27px;
+        text-align: left;
+        margin-left: 7%
+    }
+    .natural{
+        line-height: 26px; 
+        text-align: left;
+        margin-left: 7%;
     }
     .picture-eight{
-        display: none;
+        width: 100%;
+        margin: 0%;
+    }
+    .ondas{
+        width:200px;
+        height:43px;
+        margin-left:76px;
+        margin-top: 1300px;
     }
     .photo-gallery{
         display: none;
